@@ -1,2 +1,2 @@
-# Glokala ✦ Samhällsentreprenör
-Forumbaserad undervisningsplattform för distanskursen Samhällsentreprenör
+# Samhällsentreprenör
+Forumbaserad undervisningsplattform för distanskursen Samhällsentreprenör.
